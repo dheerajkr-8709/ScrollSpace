@@ -2,7 +2,7 @@
 
 A frontend website showcasing advanced animation techniques and smooth scrolling effects, designed to highlight exceptional user interface (UI) and user experience (UX).
 
-[Live Demo](https://locomotive-gsap.netlify.app/)
+[Live Demo](https://scroll-space-puce.vercel.app/)
 
 ---
 
@@ -41,7 +41,7 @@ This project demonstrates:
 - **Locomotive Scroll:** Smooth scrolling experience.
 
 ### Hosting
-- Hosted on Netlify: [Live Demo](https://locomotive-gsap.netlify.app/)
+- Hosted on vercel: [Live Demo](https://scroll-space-puce.vercel.app/)
 
 ---
 
@@ -85,4 +85,4 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 ---
 
 ## Contact
-For queries or feedback, please contact [Shubham](mailto:shubhamjaishu@gmail.com).
+For queries or feedback, please contact [Dheeraj](mailto:dheerajroy3030@gmail.com).
